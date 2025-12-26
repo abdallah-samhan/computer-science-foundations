@@ -1,9 +1,16 @@
 # Computer Science Foundations
 
-This repository contains early university projects created to practice:
-- Java programming fundamentals
-- Object-Oriented Programming (OOP)
-- Core Data Structures
+This repository represents my foundational work during my Computer Science studies,
+with a planned focus on Networks and Cybersecurity.
 
-Purpose:
-Educational and foundational learning during Computer Science studies.
+## Goals
+- Build strong programming fundamentals
+- Practice core data structures
+- Prepare for advanced networking and security topics
+
+## Structure
+- java/
+- data-structures/
+- notes/
+
+Status: Foundation setup completed. Content will be added progressively.
